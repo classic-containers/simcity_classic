@@ -56,3 +56,7 @@ started a city,
 
 If anyone knows how to make Classic Graphics the default, let me know and
 I'll add it to the image.
+
+## Disclaimer
+
+This project is intended for educational purposes only.
